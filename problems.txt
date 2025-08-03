@@ -1,3 +1,9 @@
 1 aug
-rat in a maze ✅
+rat in a maze 
 01 matrix -attempted
+2 aug
+rotten oranges
+0/1 matrix
+buy and sell stock 1-2
+3 aug
+buy and sell stock(3d dp)->Did the top down approach with memo.In future,consider doing it with bottom up dp
