@@ -7,3 +7,11 @@ rotten oranges
 buy and sell stock 1-2
 3 aug
 buy and sell stock(3d dp)->Did the top down approach with memo.In future,consider doing it with bottom up dp
+4 aug 
+stock problem with k transactions.This is stock dp IV
+https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/->binary search and dp->done
+5 aug
+https://leetcode.com/problems/minimum-time-to-complete-trips/solutions/3266855/All-Binary-Search-Problems/ ->done
+First bad version problem
+min pages to read daily problem-binary search
+
