@@ -14,4 +14,7 @@ https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/->bin
 https://leetcode.com/problems/minimum-time-to-complete-trips/solutions/3266855/All-Binary-Search-Problems/ ->done
 First bad version problem
 min pages to read daily problem-binary search
+Peak element in array
+
+6 aug
 
